@@ -1,0 +1,5 @@
+python-immutables source: file-without-copyright-information
+python-immutables source: no-debian-changes
+python-immutables source: source-contains-prebuilt-windows-binary
+python-immutables source: source-is-missing
+python-immutables source: source-package-encodes-python-version
